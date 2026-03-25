@@ -1,20 +1,16 @@
-# ProxyFL
+# Official PyTorch implementation of ProxyFL (CVPR‘26)
 <div align="center">
 
 <!-- Center-No-Ver-Bar-H1-H2 for GitHub, fork from https://gist.github.com/CodeByAidan/bb43bdb1c07c0933d8b67c23515fb912 -->
 <div id="toc">
 	<ul align="center" style="list-style: none">
 		<summary>
-			<h2> Official PyTorch implementation of ProxyFL (CVPR‘26) </h2>
+			<h2> ProxyFL: A Proxy-Guided Framework for Federated Semi-Supervised Learning </h2>
 			<h3> —— CVPR 2026 —— </h3>
 		</summary>
 	</ul>
 </div>
 
-*ProxyFL: A Proxy-Guided Framework for Federated Semi-Supervised Learning*
-
-
-</div>
 
 
 

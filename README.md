@@ -28,7 +28,7 @@ Federated Semi-Supervised Learning (FSSL) aims to collaboratively train a global
 
    ```bash
    conda create --name proxyfl python=3.8.18 
-   conda activate sage
+   conda activate proxyfl
    ```
 
 2. Install the required dependencies:

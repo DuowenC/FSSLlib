@@ -53,10 +53,10 @@ Before running, please ensure the dataset paths are correctly set in `options.py
 Here is an example shell script to run ProxyFL on CIFAR-100 :
 
 ```bash
-bash scripts/train.sh --dataset='CIFAR100' --alpha=0.1 --gpu_id=0
+bash scripts/train.sh --dataset CIFAR100 --alpha 0.1 --gpu 0
 ```
 
-Please replace `--dataset`, `--alpha`, and `--gpu_id` with appropriate values to customize the training configuration.
+Please replace `--dataset`, `--alpha`, and `--gpu` with appropriate values to customize the training configuration.
 
 ### Acknowledgement
 - We built our code based on: [SAGE](https://github.com/Jay-Codeman/SAGE).

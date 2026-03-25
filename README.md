@@ -57,3 +57,6 @@ bash scripts/train.sh --dataset='CIFAR100' --alpha=0.1 --gpu_id=0
 ```
 
 Please replace `--dataset`, `--alpha`, and `--gpu_id` with appropriate values to customize the training configuration.
+
+### Acknowledgement
+- We built our code based on: [SAGE](https://github.com/Jay-Codeman/SAGE).
